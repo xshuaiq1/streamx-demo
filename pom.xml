@@ -96,11 +96,11 @@
             <version>${flink.version}</version>
         </dependency>
 
-        <dependency>
-            <groupId>ru.yandex.clickhouse</groupId>
-            <artifactId>clickhouse-jdbc</artifactId>
-            <version>0.3.0</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>ru.yandex.clickhouse</groupId>-->
+<!--            <artifactId>clickhouse-jdbc</artifactId>-->
+<!--            <version>0.3.0</version>-->
+<!--        </dependency>-->
 
         <dependency>
             <groupId>commons-logging</groupId>
